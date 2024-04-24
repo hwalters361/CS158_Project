@@ -1,6 +1,8 @@
 # Ignore data folder
 /data
-
+*.png
+*.csv
+/cross_validation_results
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
